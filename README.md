@@ -58,10 +58,6 @@
 
 <div align="center">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=henriquevschroeder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquevschroeder&layout=compact&langs_count=7&theme=tokyonight"/>
   
   ![Snake animation](https://github.com/henriquevschroeder/henriquevschroeder/blob/output/github-contribution-grid-snake.svg)
