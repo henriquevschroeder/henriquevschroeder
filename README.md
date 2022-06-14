@@ -1,5 +1,13 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I'm Henrique</h1>
 
+<div align="center">
+  
+  #### Make sure to check my second profile dedicated to college projects/works:
+  
+  #### [@henriquevsch-col](https://github.com/henriquevsch-col)
+  
+</div>
+
 ## 🙋‍♂️ About me:
 
 - 🌱 I'm currently learning **Fullstack Development**
