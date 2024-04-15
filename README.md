@@ -1,25 +1,24 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
-
 <p align="left">My name is Henrique and I'm a Software Engineer from Brazil 🇧🇷.</p>
 
-###
+## About me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=henriquevschroeder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+<ul>
+  <li>💻 I work with Full Stack Development</li>
+  <li>👨‍🎓 Pursuing a Bachelor's Degree in Computer Science, halfway through (5/10 semesters)</li>
+</ul>
+
+## 📊 GitHub Stats
+
+<div align="start">
+  <img src="https://github-readme-stats.vercel.app/api?username=henriquevschroeder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  &nbsp;
+  &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=henriquevschroeder&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=rose_pine&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">💻 I work with Full Stack Development<br>👨‍🎓 Studying Computer Science in college (5/10)</p>
-
-###
+## Connect with Me
 
 <div>
   <a href="https://www.linkedin.com/in/henrique-valiati-schroeder-66b61a223/" target="_blank">
@@ -35,12 +34,7 @@
   </a>
 </div>
 
-###
-
-<h2 align="left">My tech stack</h2>
-
-###
-
+<h2 align="left">My main stack</h2>
 <div>
   <kbd>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript Logo"  />
@@ -76,6 +70,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="40" alt="Laravel Logo"  />
   </kbd>
   <kbd>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python Logo"  />
+  </kbd>
+  <kbd>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker Logo"  />
   </kbd>
   <kbd>
@@ -98,8 +95,4 @@
   </kbd>
 </div>
 
-###
-
 <img src="https://raw.githubusercontent.com/henriquevschroeder/henriquevschroeder/output/snake.svg" alt="Snake animation" />
-
-###
