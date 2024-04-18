@@ -21,16 +21,12 @@
 ## Connect with Me
 
 <div>
-  <a href="https://www.linkedin.com/in/henrique-valiati-schroeder-66b61a223/" target="_blank">
-    <kbd>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn Logo"  />
-    </kbd>
+  <a href="https://www.linkedin.com/in/henrique-valiati-schroeder-66b61a223/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/-Henrique%20Valiati%20Schroeder-blue?style=flat&logo=linkedin&labelColor=blue&link=mailto%3Ahenriquevschdev%40gmail.com" height="25" alt="LinkedIn Badge"  />
   </a>
   
-  <a href="mailto:henriquevschdev@gmail.com" target="_blank">
-    <kbd>
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40" alt="Gmail Logo"  />
-    </kbd>
+  <a href="mailto:henriquevschdev@gmail.com" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/-henriquevschdev%40gmail.com-white?style=flat&logo=gmail&labelColor=white&link=mailto%3Ahenriquevschdev%40gmail.com" height="25" alt="Gmail Badge"  />
   </a>
 </div>
 
