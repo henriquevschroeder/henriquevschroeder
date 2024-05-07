@@ -5,7 +5,7 @@
 ## About me
 
 <ul>
-  <li>💻 I work with Full Stack Development</li>
+  <li>💻 I work as a Full Stack Developer</li>
   <li>👨‍🎓 Pursuing a Bachelor's Degree in Computer Science, halfway through (5/10 semesters)</li>
 </ul>
 
