@@ -28,11 +28,11 @@
 
 ### Frontend
 
-[![Frontend Stack](https://skillicons.dev/icons?i=html,css,ts,js,react,next,vue,nuxt,vite,tailwind)](https://skillicons.dev)
+[![Frontend Stack](https://skillicons.dev/icons?i=html,css,scss,ts,js,angular,react,next,vue,nuxt,vite,tailwind)](https://skillicons.dev)
 
 ### Tools / Others
 
-[![Tools](https://skillicons.dev/icons?i=githubactions,docker,kubernetes,jest,vitest,vercel,aws,figma,git,github,vscode,apple,linux,windows)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=githubactions,docker,vercel,aws,cloudflare,figma,git,github,vscode,apple,linux,windows)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
 
