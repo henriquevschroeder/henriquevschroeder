@@ -4,7 +4,7 @@
 
 <div>
   <a href="https://www.linkedin.com/in/henrique-valiati-schroeder-66b61a223/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/-Henrique%20Schroeder-blue?style=flat&logo=linkedin&labelColor=blue&link=mailto%3Ahenriquevschdev%40gmail.com" height="25" alt="LinkedIn Badge"  />
+    <img src="https://img.shields.io/badge/-Henrique%20Valiati%20Schroeder-blue?style=flat&logo=linkedin&labelColor=blue&link=mailto%3Ahenriquevschdev%40gmail.com" height="25" alt="LinkedIn Badge"  />
   </a>
   
   <a href="mailto:henriquevschdev@gmail.com" target="_blank" rel="noopener">
