@@ -17,7 +17,7 @@
 <ul>
   <li>📅 I've been studying and working with software development for over 5 years</li>
   <li>💻 I work as a Full Stack Developer currently</li>
-  <li>👨‍🎓 Pursuing a Bachelor's Degree in Computer Science (7/10 semesters)</li>
+  <li>👨‍🎓 Pursuing a Bachelor's Degree in Computer Science (10/10 semesters)</li>
 </ul>
 
 ## 💻 Main Stack
